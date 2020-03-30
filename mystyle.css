@@ -1,0 +1,18 @@
+/* element selector */
+h1 {
+    color: red;
+    margin-left: 20px;}
+
+
+/* id selector */
+#myid{
+border-style: dotted solid;
+}
+
+/* class selector */
+.myclass{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
