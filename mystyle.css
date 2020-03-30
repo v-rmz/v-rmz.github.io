@@ -1,12 +1,12 @@
 /* element selector */
 h1 {
     color: purple;
-    margin-left: 20px;}
+    margin-left: 50px;}
 
 
 /* id selector */
 #myid{
-border-style: dotted solid;
+border-style: dotted solid double;
 }
 
 /* class selector */
