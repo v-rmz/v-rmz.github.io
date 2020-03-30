@@ -1,4 +1,4 @@
-function multiplyBy()
+function changeColor()
 { var num1,num2;
         num1 = document.getElementById("firstInput").value;
         num2 = document.getElementById("secondInput").value;
