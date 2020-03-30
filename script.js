@@ -1,7 +1,5 @@
 function changeColor()
-{ var color
-        color = document.getElementById("colorChoice").value;
-        body {
-          style="background-color:color"
-        }
+{
+  var color = document.getElementById("colorChoice");
+  document.body.style.background = color;
 }
